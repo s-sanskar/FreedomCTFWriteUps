@@ -13,4 +13,6 @@ I searched up "DNA cipher ctf" and found an image.
 
 Using this chart, I was able to solve for the flag.
 
+You could also use [this script](https://github.com/karma9874/DNA-Cipher-Script-CTF/blob/master/dna.py)
+
 Answer: flag{LeT_TH3gam3b3GIN}
