@@ -11,9 +11,10 @@ that in the start of the file there is a header that says
 I can assume that this not an .txt file. When I change the
 file extension.
 
-<dl>
-    mv flag.txt flag.png 
-</dl>
+```
+    mv flag.txt flag.png
+```
+
 I can see the flag.
 
 Answer: flag{f1le_f0rmat_painn}
