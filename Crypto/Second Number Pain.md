@@ -12,13 +12,13 @@ Binary with space removed (mentioned in the hint)
 ```
 011001011010101100001001001111111011100111000010110100110100100100100000111100001010011100000110111011100010101111101100000001000111101011001010100100110111110000010010101010101011001101011000011010001101
 ```
+
 The hint states that this question is similar to the "First Number pain". While doing the first number pain I learned that decimals could be converted to numbers. Therefore I tried to convert binary into decimals.
 
 I searched up online binary to decimal decode and got:
 ```
 102 108 97 103 123 104 51 108 108 48 95 99 121 98 51 114 66 51 103 105 110 51 114 125
 ```
-
 
 After, I converted the decimal to text. And I got the answer:
 flag{h3ll0_cyb3rB3gin3r}
