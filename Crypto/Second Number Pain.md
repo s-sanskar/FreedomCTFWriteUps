@@ -17,6 +17,11 @@ The hint states that this question is similar to the "First Number pain". While 
 
 I searched up online binary to decimal decode and got:
 ```
+10210897103123104511081084895991219851114665110310511051114125
+```
+
+After couple of guesses I was able to seperate those numbers into:
+```
 102 108 97 103 123 104 51 108 108 48 95 99 121 98 51 114 66 51 103 105 110 51 114 125
 ```
 
