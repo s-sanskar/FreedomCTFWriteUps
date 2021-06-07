@@ -17,8 +17,7 @@ Ciphertext: cazmgsczlrkrkmnlhsvvma
 ```
 
 **How to solve:**
-1. Use this: 
-![img](./0.png)
+1. Use this [code](./decodeCode.py)
 
 
 **Answer:**

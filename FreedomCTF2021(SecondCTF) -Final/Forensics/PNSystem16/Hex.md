@@ -14,6 +14,7 @@ Image:
 **How to solve it:**
 1. Go to a photo editor, or color selector of your choice.
 2. Select and copy hex value of each color
+    - Example: red is FF0000 in hex.
     - Hex: 666c61677b6833785f316e5f696d616765335f313937367d
 4. Convert hex into text
 
